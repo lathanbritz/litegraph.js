@@ -4,6 +4,7 @@ npm-debug.log
 temp/
 temp/*
 coverage/
+yarn.lock
 
 # Editors
 /.vscode/*
